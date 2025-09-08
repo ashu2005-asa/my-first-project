@@ -1,0 +1,3 @@
+NAME: aslesha
+COURSE: ai
+ABOUT: here i learned how to create a repo and how to upload the files and also how to commit the chanegs
